@@ -1,0 +1,3 @@
+Tarea 1: Estudiar Git 
+Tarea 2: Crear repositorio en GitHub 
+Tarea 3: Subir evidencias 
