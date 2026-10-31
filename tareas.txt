@@ -1,3 +1,5 @@
 Tarea 1: Estudiar Git 
 Tarea 2: Crear repositorio en GitHub 
 Tarea 3: Subir evidencias 
+Tarea 4: Crear rama develop y feature 
+Tarea 5: Abrir y fusionar Pull Request 
